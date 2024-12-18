@@ -1,6 +1,6 @@
-# Introduction of Data Pre-processing in R for Data analysis
+# Introduction of Data Science in R
 
-This is going to provide a banch of tools for data analysis practically. It includes the following methods (continue updating):
+This is going to provide a banch of methods for data analysis practically.
 
 -by James Zhou
 
